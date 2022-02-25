@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\abeez\\AndroidStudioProjects\\fluttertest1\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abeez\\.gradle\\caches\\transforms-2\\files-2.1\\80ab89d10d8ad64dc0cecf8182a26936\\jetified-clevertap-android-sdk-4.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,159,217,276,333,387",
+                        "endColumns": "50,52,57,58,56,53,51",
+                        "endOffsets": "101,154,212,271,328,382,434"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "264,315,368,426,485,542,596",
+                        "endColumns": "50,52,57,58,56,53,51",
+                        "endOffsets": "310,363,421,480,537,591,643"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abeez\\.gradle\\caches\\transforms-2\\files-2.1\\5643ec8e5c570354dce224d34ab4c1ea\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "648",
+                        "endLines": "15",
+                        "endColumns": "10",
+                        "endOffsets": "815"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abeez\\.gradle\\caches\\transforms-2\\files-2.1\\049b4a729439b1982390551f058da79f\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
